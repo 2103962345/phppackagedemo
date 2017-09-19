@@ -1,0 +1,14 @@
+{
+    "name": "marshallee/phppackagedemo",
+    "description": "a shot demo",
+    "type": "project",
+    "require": {
+        "houdunwang/hdphp": "*"
+    },
+    "authors": [
+        {
+            "name": "李少江",
+            "email": "980916400@qq.com"
+        }
+    ]
+}
